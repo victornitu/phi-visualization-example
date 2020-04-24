@@ -32,5 +32,5 @@ cd dashboard
 npm start
 ```
 
-[1]: https://medium.com/phi-skills
+[1]: https://medium.com/phi-skills/event-driven-data-visualization-cf99e8dfa298
 [2]: https://github.com/victornitu/phi-architecture-example
